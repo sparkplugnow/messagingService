@@ -4,3 +4,4 @@ module.exports = function User(name, username, email){
     this.email = email;
     this.active = new Boolean(true);
 }
+//pushing to git

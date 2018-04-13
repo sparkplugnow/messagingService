@@ -116,3 +116,4 @@ function isUserValid(username, userArray) {
         }
       return false;
 };
+//Pushing to git repo
